@@ -7,7 +7,7 @@ naulakg = naula*425.6
 luotikg = luoti*13.3
 
 kilot = (leiviskakg + naulakg + luotikg)/1000
-print (f"tää {kilot})")
+print (f"Paino kilogrammoina: {kilot}")
 
 
 #hae kg math.floor, modulo eli %

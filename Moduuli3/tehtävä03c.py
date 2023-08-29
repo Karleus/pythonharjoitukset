@@ -1,0 +1,1 @@
+sukupuoli =(input("Anna sukupuolesi"))
